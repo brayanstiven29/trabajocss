@@ -1,0 +1,30 @@
+body {
+  background: #071633;
+}
+
+.display-luna {
+  display: flex;
+  justify-content: center;
+}
+
+.display-estrellas {
+  display: flex;
+}
+
+.circulo {
+  width: 100px;
+  height: 100px;
+  -moz-border-radius: 50%;
+  -webkit-border-radius: 50%;
+  border-radius: 50%;
+  background: radial-gradient(rgb(255, 255, 255), #439dbd, rgb(30, 144, 255));
+}
+
+.estrellas {
+  width: 100px;
+  height: 100px;
+  -moz-border-radius: 50%;
+  -webkit-border-radius: 50%;
+  background: white;
+  border-radius: 50%;
+}
