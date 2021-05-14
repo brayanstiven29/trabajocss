@@ -1,4 +1,4 @@
-.triangulo{
+.triangulo_david{
     position: fixed;
     left: 276px;
     top : 485px;
@@ -8,7 +8,7 @@
     border-width: 240px 0 0 180px;
     border-color: transparent transparent transparent #9eabba;
 }
-.triangulo2{
+.triangulo2_david{
 position: fixed;
 top: 525px;
 left: -80px;
@@ -18,7 +18,7 @@ border-style: solid;
 border-width: 0 0 200px 200px;
 border-color: transparent transparent  #fffdfe transparent;
 }
-.cuadrado {
+.cuadrado_david {
     width: 2000px; 
     height: 500px; 
     background: #c0d2e0;
@@ -31,7 +31,7 @@ body {
     background-color: #071633;
 
 }
-.triangulo3{
+.triangulo3_david{
     position: fixed;
     top: 525px;
     left: 120px;
@@ -43,7 +43,7 @@ body {
 }
 
 
-.circulo{ 
+.circulo-david{ 
     position: fixed;
     top:680px;
     left :1880px;
@@ -55,7 +55,7 @@ body {
     background: #c0d2e0;
 }
 
-.circulo2{ 
+.circulo2_david{ 
     position: fixed;
     top:700px;
     left :1845px;
@@ -67,7 +67,7 @@ body {
     background: #c0d2e0;
 }
 
-.triangulo4{
+.triangulo4_david{
     width: 0;
     height: 0;
     border-style: solid;
