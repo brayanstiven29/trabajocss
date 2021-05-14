@@ -26,11 +26,6 @@ border-color: transparent transparent  #fffdfe transparent;
     left: 0px;
     top : 725px;
  }
-body {
-    margin: 300px;
-    background-color: #071633;
-
-}
 .triangulo3{
     position: fixed;
     top: 525px;
