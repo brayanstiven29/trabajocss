@@ -1,0 +1,80 @@
+.triangulo{
+    position: fixed;
+    left: 276px;
+    top : 485px;
+    width: 0;
+    height: 0;
+    border-style: solid;
+    border-width: 240px 0 0 180px;
+    border-color: transparent transparent transparent #9eabba;
+}
+.triangulo2{
+position: fixed;
+top: 525px;
+left: -80px;
+width: 0;
+height: 0;
+border-style: solid;
+border-width: 0 0 200px 200px;
+border-color: transparent transparent  #fffdfe transparent;
+}
+.cuadrado {
+    width: 2000px; 
+    height: 500px; 
+    background: #c0d2e0;
+    position:fixed;
+    left: 0px;
+    top : 725px;
+ }
+body {
+    margin: 300px;
+    background-color: #071633;
+
+}
+.triangulo3{
+    position: fixed;
+    top: 525px;
+    left: 120px;
+    width: 0;
+    height: 0;
+    border-style: solid;
+    border-width: 200px 0 0 200px;
+    border-color: transparent transparent transparent #9eabba;
+}
+
+
+.circulo{ 
+    position: fixed;
+    top:680px;
+    left :1880px;
+    width: 100px;
+    height: 100px;
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+    background: #c0d2e0;
+}
+
+.circulo2{ 
+    position: fixed;
+    top:700px;
+    left :1860px;
+    width: 100px;
+    height: 100px;
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+    background: #c0d2e0;
+}
+
+.triangulo4{
+    width: 0;
+    height: 0;
+    border-style: solid;
+    border-width: 0 0 240px 180px;
+    border-color: transparent transparent#fffdfe transparent ;
+    position: fixed;
+    left: 96px;
+    top : 485px;
+
+}
